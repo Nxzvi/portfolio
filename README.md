@@ -16,8 +16,6 @@ Passionate about building <b>scalable infrastructure, automated CI/CD pipelines,
 - 🐧 Linux enthusiast
 - ☁ Learning and working with AWS Cloud
 - ⚙ Interested in DevOps automation and CI/CD
-- 🔐 Security & monitoring using Wazuh
-
 ---
 
 # 🛠 Tech Stack
@@ -54,10 +52,6 @@ Automated application deployment using **Jenkins and Docker**.
 
 ### ☁ AWS Infrastructure
 Created scalable infrastructure using **EC2, VPC, and Load Balancer**.
-
-### 🔐 Security Monitoring
-Implemented **Wazuh EDR monitoring** for threat detection and log analysis.
-
 ---
 
 # 📊 GitHub Stats
