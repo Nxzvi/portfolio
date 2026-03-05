@@ -119,6 +119,56 @@ text-shadow:
 strong{
 color:var(--primary);
 }
+
+.pipeline{
+padding:80px 10%;
+text-align:center;
+}
+
+.pipeline-container{
+display:flex;
+justify-content:center;
+align-items:center;
+flex-wrap:wrap;
+gap:20px;
+margin-top:40px;
+}
+
+.step{
+background:rgba(255,255,255,0.05);
+backdrop-filter:blur(12px);
+padding:20px;
+border-radius:15px;
+width:120px;
+transition:0.4s;
+animation:pulse 3s infinite;
+}
+
+.step i{
+font-size:40px;
+color:#00ff9c;
+margin-bottom:10px;
+}
+
+.arrow{
+width:40px;
+height:4px;
+background:#00ff9c;
+animation:flow 1.5s infinite;
+}
+
+@keyframes flow{
+0%{opacity:0.2;}
+50%{opacity:1;}
+100%{opacity:0.2;}
+}
+
+@keyframes pulse{
+0%{transform:scale(1);}
+50%{transform:scale(1.05);}
+100%{transform:scale(1);}
+}
+
 /* GLASS EFFECT */
 
 .glass{
