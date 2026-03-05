@@ -24,3 +24,8 @@ jobs:
     - name: Upload to S3
       run: |
         aws s3 sync . s3://nezviportfolio --delete
+
+        - name: Invalidate CloudFront cache
+    - name: Invalidate CloudFront cache
+      run: |
+          aws cloudfront create-invalidation --distribution-id dckvz7p33urer --paths "/*"
