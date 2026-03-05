@@ -54,24 +54,6 @@ Automated application deployment using **Jenkins and Docker**.
 Created scalable infrastructure using **EC2, VPC, and Load Balancer**.
 ---
 
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=nxzvi&show_icons=true&theme=radical">
-
-</p>
-
----
-
-# 🔥 Most Used Languages
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nxzvi&layout=compact&theme=radical">
-
-</p>
-
 ---
 
 # 📫 Connect With Me
